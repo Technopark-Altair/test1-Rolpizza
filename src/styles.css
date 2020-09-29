@@ -1,0 +1,19 @@
+.image{
+    padding: 20px;
+}
+.btn{
+    font-size: 30px;
+}
+.form{
+    font-size: 20px;
+}
+.form:focus{
+    color: blue;
+    background-color: rgb(43, 205, 226);
+}
+#date{
+    font-size: 20px;
+}
+.btn:hover{
+    background-color: chocolate;
+}
